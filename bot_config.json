@@ -1,0 +1,13 @@
+{
+    "post_templates": {
+        "Общие": [],
+        "Рекламные": [],
+        "Информационные": []
+    },
+    "spam_template": "Привет, это тестовое сообщение от бота!",
+    "delay_time": 60,
+    "delete_time": 10,
+    "vk_api_token": "vk1.a.Ygk9FmH_nNS6QjTmE8z_8xBj8kyu0GYKIkLF3jZ-gmyB9pDXq8UwyD4jQzRvXn1Z6g3SVEiuHqImWC2e0SqWtXhoiSfA6fonXcRM41_Ya6N9DGernw9wPd52kOOsy9rhs7rF9v0c9Tn1i8TBhvmrQi3MaOdmrJA56xG5VmXmO-6L_4ntWG9A7PCeXMtw_6XEDjyjjlaNo-bMZN5SNCJGng",
+    "last_post_ids": {},
+    "default_post_template_category": "Общие"
+}
